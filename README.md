@@ -14,3 +14,7 @@ The code is divided into three major classes
 **Particle Instantiater** - To be available on tracked image prefab
 **TouchInputHandler** - Drag and drop in scene to raycast on instantiated spheres / particles
 **ResetPosition** - To be added on instantiated sphere to create a bounce effect
+
+**iOS Build** - https://drive.google.com/file/d/1MWlfCaHdwuOA29LSlNgm-km5xABPTPF2/view?usp=drive_link (Tested and working on iPhone 13 but if required to be tested need to add device UDID in profile)
+**Android Build** - https://drive.google.com/file/d/1txWEEQK7c42uVB3jf-zd5grZFW8WLQzc/view?usp=sharing (Not tested due to lack of device)
+**Video for Build** - https://drive.google.com/file/d/1OdCd8V-yTDzmZSfN9LLONaeQli9NVWAt/view?usp=sharing (Recorded from iPhone 13 with pixel spread value of 3)
