@@ -11,7 +11,7 @@ Packages Used - ARKit(4.2.8) for iOS, ARCore(4.2.8) for Android, ARFoundation (4
 The project can be directly build and deployed on Android as well as iOS
 The **Pixel Spread** attribute inside **Particle Instantiator** class can be changed based on the device type mostly for iphones 13 and above should be 3 or more and for older gen android devices should be 4 or more.
 The code is divided into three major classes
-**Particle Instantiater** - To be available on tracked image prefab
+**Particle Instantiater** - To be available on tracked image prefab, Source or trakable image size kept to low 64 * 64 pixels
 **TouchInputHandler** - Drag and drop in scene to raycast on instantiated spheres / particles
 **ResetPosition** - To be added on instantiated sphere to create a bounce effect
 
